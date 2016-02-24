@@ -1,0 +1,18 @@
+bin/linker64
+bin/qseecomd
+lib64/libbacktrace.so
+lib64/libbase.so
+lib64/libnetd_client.so
+lib64/libstdc++.so
+lib64/libunwind.so
+lib64/libutils.so
+vendor/lib64/libdiag.so
+vendor/lib64/libdrmfs.so
+vendor/lib64/libdrmtime.so
+vendor/lib64/libQSEEComAPI.so
+vendor/lib64/librpmb.so
+vendor/lib64/libssd.so
+vendor/lib64/hw/keystore.msm8992.so
+
+# linker64 renamed to linker
+# keystore.default is a copy of keystore.msm8992
